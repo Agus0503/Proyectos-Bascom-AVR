@@ -1,0 +1,15 @@
+COMPONENTES
+•	3 displays BCD 7 segmentos
+•	4511
+•	Resistencias
+•	Atmega 328p
+•	Potenciómetro 10k
+•	2 pulsadores
+•	3 transistores 2n3904
+•	Fuente regulada fija -> Transformador 220v-12v
+                                Puente de diodos
+                                2 capacitores cerámicos (Valores dados en datasheet)
+                                1 capacitor electrolítico
+                                Regulador 7805
+
+
