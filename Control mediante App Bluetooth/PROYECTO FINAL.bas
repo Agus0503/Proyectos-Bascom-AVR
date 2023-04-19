@@ -18,7 +18,7 @@ Dim Dato As Byte
 
 Do
 
-Dato = Waitkey()
+  Dato = Waitkey() 'Creo instancia de comunicacion Bluetooth entre Arduino Uno y app
 
 If Dato = "A" Then
 Portb.0 = 1
